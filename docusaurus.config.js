@@ -9,12 +9,12 @@ const config = {
   title: 'DB Migrate WP',
   tagline: 'aikhacode db migrate',
   url: 'https://aikhacode.github.com',
-  baseUrl: '/docmigrate/',
+  baseUrl: '/docmigratelsd/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'aikhacode', // Usually your GitHub org/user name.
-  projectName: 'docmigrate', // Usually your repo name.
+  projectName: 'docmigratelsd', // Usually your repo name.
 
   presets: [
     [
